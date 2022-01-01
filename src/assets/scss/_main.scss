@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import './colors';
+
+.main{
+    display: flex;
+    height: 100vh;
+    font-family: 'Roboto', 'sans-serif';
+    text-decoration: none;
+    //overflow-x: hidden;
+}
+
+.Contentpages{
+    padding: 15px;
+    min-height: 700px;
+    background-color: #EBEBEB;
+}
+
+.title_pages{
+
+    p{
+        font-size: 25px;
+    }
+}
