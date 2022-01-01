@@ -5,14 +5,13 @@
 
 # frontend
 
-## Project setup
+## instalar bibliotecas
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e iniciar projeto
 ```
 yarn serve
 ```
-
 
